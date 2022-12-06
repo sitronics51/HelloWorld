@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12beb030-e60d-47a6-bf65-ca37f8b47855" name="Changes" comment="">
+    <list default="true" id="12beb030-e60d-47a6-bf65-ca37f8b47855" name="Changes" comment="Sprint 1.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,19 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="982ab04e-7ef5-4bb5-8507-5a321e25a6ac" />
+        <option name="url" value="https://github.com/sitronics51/HelloWorld.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,6 +97,21 @@
       <option name="presentableId" value="Default" />
       <updated>1670265347749</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sprint 1.1">
+      <created>1670314149405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670314149405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sprint 1.1">
+      <created>1670314174718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670314174718</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sprint 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 1.1" />
   </component>
 </project>
